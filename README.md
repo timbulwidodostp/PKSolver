@@ -1,6 +1,8 @@
 # PKSolver
 Tutorial (Guide) PKSolver An add-in program for pharmacokinetic and pharmacodynamic data analysis in Microsoft Excel
 
+https://www.youtube.com/watch?v=CaXbTF1HU-E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
